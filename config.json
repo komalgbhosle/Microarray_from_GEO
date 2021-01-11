@@ -1,0 +1,15 @@
+{
+    "mongo_hostip":"172.16.4.46",
+    "mongo_port":36018,
+    "mongo_db_name":"z_biomarker_product",
+    "mongo_userid":"pulkit.srivastava",
+    "update_collection":"gene_features",
+    "mongo_userpassword":"hnfT5H8NE",
+    "data_writefolder":"data/input_files",
+    "log_folder":"data/log_files",
+    "map_proteomics":"data/mapping_files/hs_uniprot_to_gene.tab",
+    "map_noncoding":"data/mapping_files/hs_noncoding_to_gene.csv",
+    "map_metabolomics":"data/mapping_files/hs_metabolomics_to_gene.csv",
+    "error_email":"pulkit.srivastava@innoplexus.com",
+    "return_api":"https://staging.biomarker.innoplexus.de/api/v0/biomarker/customize_email_api"
+}

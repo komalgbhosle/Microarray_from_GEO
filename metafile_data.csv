@@ -1,0 +1,2 @@
+expression_file_path,metadata_file_path,marker_column_name,condition_column_name,id_column_name,final_point,initial_point,final_point_name,initial_point_name,output_filename
+/data/users-workspace/komal.bhosle/Asthma/Asthma_Microarray/trail/GSE137268_ExpData.csv,/data/users-workspace/komal.bhosle/Asthma/Asthma_Microarray/trail/GSE137268_Sample_info.csv,Gene,Condition,SampleID,Knockout,Control,Overall_Asthma,Overall_Control,/data/users-workspace/komal.bhosle/Asthma/Asthma_Microarray/trail/GSE137268_Overall_degs.csv
